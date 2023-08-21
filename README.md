@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  <img height="350" src="https://i.gifer.com/Cjjf.gif" />
 -->
 
 <h1 align="center">Hi there 👋,</h1>
@@ -20,12 +21,12 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="350" src="https://i.gifer.com/Cjjf.gif" />
+  <img height="350" src="https://miro.medium.com/v2/resize:fit:1100/1*bRjJzMrkBa7ne_48Gx-5PQ.gif" />
 </div>
 
 ###
 
-<p align="center">Let's make Art of CV!<br>Image Source: https://gifer.com/en/Cjjf</p>
+<p align="center">Let's make Art of CV!<br>Image Source: https://medium.com/paul-jaisini-said/paul-jaisini-said-cb4d5234ae3d</p>
 
 ###
 
